@@ -26,7 +26,7 @@ We have the current setup:
 [CMU-Mocap](http://mocap.cs.cmu.edu/) was obtained from the [repo](https://github.com/chaneyddtt/Convolutional-Sequence-to-Sequence-Model-for-Human-Dynamics) of ConvSeq2Seq paper.
 
 #### Keypose Extraction:
-If you want to skip this step, you can download the already extracted keyposes from [this link]()
+If you want to skip this step, you can download the already extracted keyposes from [this link](https://drive.google.com/file/d/1l7Dq5JA4si8ZJboospQ_88sYkiZtQ4E9/view?usp=share_link)
 
 We first run the keypose extraction (of both the training data and test data.)
 Note: Since we run the keypose extraction code for all 64 test sequences of each action of subject 5, this takes a while (about 30 minutes). 
